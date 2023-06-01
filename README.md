@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Asilsathik/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119476247/299ff056-9963-44ec-af9c-144b00401983)
+![image](https://github.com/Asilsathik/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119476247/1453cfba-e82b-484f-bb56-20acc9942221)
+
 
 ### Output:
-![image](https://github.com/Asilsathik/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119476247/5f65f8e1-878a-40bc-848b-b69d8ef2747e)
+![image](https://github.com/Asilsathik/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119476247/a36f49a7-ddc8-4446-bf5f-6518fbe1b69e)
+
 
 
 ### Name:M.MOHAMED ASIL
